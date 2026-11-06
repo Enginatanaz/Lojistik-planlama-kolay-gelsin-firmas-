@@ -1,0 +1,6 @@
+{
+  "name": "Lojistik Hat Planlama ve Optimizasyon Merkezi",
+  "description": "Ankara merkezli, çok tesisli operasyonlar için hat planlama, paket/desi matrisi yönetimi, kural motoru ve araç optimizasyon merkezi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
